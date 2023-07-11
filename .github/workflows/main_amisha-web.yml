@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'amisha-web'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13EF7184BE274850BF5A4B8505898648 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_707BAC3DDE8F48A6B4913EA5E20F621F }}
           package: '*.jar'
